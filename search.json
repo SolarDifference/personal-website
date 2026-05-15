@@ -32,28 +32,28 @@
     "href": "index.html",
     "title": "Zachary Morford",
     "section": "",
-    "text": "Write a short bio here — who you are, what you do, and what you’re interested in."
+    "text": "I’m a behavioral scientist and data analyst with a background spanning applied behavior analysis, behavioral economics, and machine learning. My work sits at the intersection of rigorous behavioral science and modern data tools — I use R, SQL, and machine learning to turn complex clinical and organizational data into actionable insight.\nCurrently, I work as a Clinical Data Analyst at Centria Healthcare, where I develop novel clinical metrics, build PowerBI dashboards, and apply predictive modeling to improve outcomes for thousands of ABA clients and clinicians. Before moving into industry, I spent several years as a faculty member and researcher, publishing on topics including gamification, disequilibrium theory, and behavioral health.\nI’m particularly interested in how behavioral science principles can be operationalized at scale — whether through clinical data systems, organizational design, or technology."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Zachary Morford",
     "section": "",
-    "text": "Write a short bio here — who you are, what you do, and what you’re interested in."
+    "text": "I’m a behavioral scientist and data analyst with a background spanning applied behavior analysis, behavioral economics, and machine learning. My work sits at the intersection of rigorous behavioral science and modern data tools — I use R, SQL, and machine learning to turn complex clinical and organizational data into actionable insight.\nCurrently, I work as a Clinical Data Analyst at Centria Healthcare, where I develop novel clinical metrics, build PowerBI dashboards, and apply predictive modeling to improve outcomes for thousands of ABA clients and clinicians. Before moving into industry, I spent several years as a faculty member and researcher, publishing on topics including gamification, disequilibrium theory, and behavioral health.\nI’m particularly interested in how behavioral science principles can be operationalized at scale — whether through clinical data systems, organizational design, or technology."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Zachary Morford",
     "section": "Education",
-    "text": "Education\nDegree, Field | Institution | Year\nDegree, Field | Institution | Year"
+    "text": "Education\nPhD, Psychology | University of Nevada, Reno | 2015\nMS, Behavior Analysis | University of North Texas | 2011\nBS, Psychology | Georgia Institute of Technology | 2008"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
     "title": "Zachary Morford",
-    "section": "Experience",
-    "text": "Experience\nTitle | Organization | Years\nBrief description of your role and responsibilities."
+    "section": "Skills",
+    "text": "Skills\nLanguages & Tools: R, SQL, PowerBI, Tidyverse, TidyModels, GitHub\nMethods: Machine learning, NLP, data visualization, applied statistics, research design\nDomain Expertise: Applied behavior analysis, behavioral economics, gamification, organizational behavior management (OBM), behavioral systems analysis (BSA), performance management"
   },
   {
     "objectID": "cv.html",
