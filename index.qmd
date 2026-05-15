@@ -1,6 +1,6 @@
 ---
 title: "Zachary Morford"
-subtitle: "Your title / role here"
+subtitle: "PhD, BCBA-D | Clinical Data Analyst"
 image: assets/profile.jpg
 about:
   template: trestles
@@ -8,27 +8,42 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/
+      href: https://github.com/SolarDifference
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/
+      href: https://linkedin.com/in/zachary-morford
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en
     - icon: envelope
       text: Email
-      href: mailto:your@email.com
+      href: mailto:zachary.morford@icloud.com
 ---
 
 ## About Me
 
-Write a short bio here — who you are, what you do, and what you're interested in.
+I'm a behavioral scientist and data analyst with a background spanning applied behavior analysis, behavioral economics, and machine learning. My work sits at the intersection of rigorous behavioral science and modern data tools — I use R, SQL, and machine learning to turn complex clinical and organizational data into actionable insight.
+
+Currently, I work as a Clinical Data Analyst at Centria Healthcare, where I develop novel clinical metrics, build PowerBI dashboards, and apply predictive modeling to improve outcomes for thousands of ABA clients and clinicians. Before moving into industry, I spent several years as a faculty member and researcher, publishing on topics including gamification, disequilibrium theory, and behavioral health.
+
+I'm particularly interested in how behavioral science principles can be operationalized at scale — whether through clinical data systems, organizational design, or technology.
+
+---
 
 ## Education
 
-**Degree, Field** | Institution | Year
+**PhD, Psychology** | University of Nevada, Reno | 2015
 
-**Degree, Field** | Institution | Year
+**MS, Behavior Analysis** | University of North Texas | 2011
 
-## Experience
+**BS, Psychology** | Georgia Institute of Technology | 2008
 
-**Title** | Organization | Years
+---
 
-Brief description of your role and responsibilities.
+## Skills
+
+**Languages & Tools:** R, SQL, PowerBI, Tidyverse, TidyModels, GitHub
+
+**Methods:** Machine learning, NLP, data visualization, applied statistics, research design
+
+**Domain Expertise:** Applied behavior analysis, behavioral economics, gamification, organizational behavior management (OBM), behavioral systems analysis (BSA), performance management

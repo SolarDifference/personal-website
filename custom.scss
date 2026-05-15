@@ -1,0 +1,104 @@
+/*-- scss:defaults --*/
+
+// Fonts
+$font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif;
+$headings-font-family:   "Inter", system-ui, -apple-system, sans-serif;
+$headings-font-weight:   700;
+$headings-letter-spacing: -0.02em;
+
+// Color
+$primary:   #1B5FA8;   // rich medium blue
+$link-color: $primary;
+
+// Navbar
+$navbar-bg: #0f2d4e;   // deep navy — bold contrast with blue links
+$navbar-fg: #ffffff;
+$navbar-hl: #5ba3f5;   // active/hover highlight
+
+// Body
+$body-bg:         #ffffff;
+$body-color:      #1a1a1a;
+
+// Borders & radius
+$border-radius:   0.4rem;
+$card-border-radius: 0.5rem;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+// Sharper section dividers
+hr {
+  border-color: #e0e0e0;
+  opacity: 1;
+}
+
+// Slightly larger base font
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+// Bold, tight headings
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid $primary;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+// Navbar refinements
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+// About page
+.quarto-about-trestles .about-entity {
+  padding-top: 2rem;
+}
+
+.about-links .about-link {
+  border: 1.5px solid $primary !important;
+  font-weight: 500;
+}
+
+// Portfolio grid cards
+.g-col-12 {
+  background: #f8f9fb;
+  border: 1px solid #e4e8ef;
+  border-radius: $border-radius;
+  padding: 1.25rem 1.5rem;
+}
+
+.g-col-12 h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  color: $primary;
+}
+
+// CV download button
+.btn-outline-primary {
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+// Blog listing
+.quarto-listing-default .listing-title {
+  font-weight: 700;
+}
+
+.quarto-listing-default .listing-date {
+  font-size: 0.85rem;
+  color: #666;
+}
