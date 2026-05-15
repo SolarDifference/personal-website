@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 ---
 
 [Download PDF](assets/cv.pdf){.btn .btn-outline-primary}
+[Google Scholar](https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en){.btn .btn-outline-secondary}
 
 ---
 
