@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: auto  # re-render only when source changes
+
+website:
+  title: "Zachary Morford"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: cv.qmd
+        text: CV
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/
+        aria-label: LinkedIn
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

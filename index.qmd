@@ -1,0 +1,34 @@
+---
+title: "Zachary Morford"
+subtitle: "Your title / role here"
+image: assets/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/
+    - icon: envelope
+      text: Email
+      href: mailto:your@email.com
+---
+
+## About Me
+
+Write a short bio here — who you are, what you do, and what you're interested in.
+
+## Education
+
+**Degree, Field** | Institution | Year
+
+**Degree, Field** | Institution | Year
+
+## Experience
+
+**Title** | Organization | Years
+
+Brief description of your role and responsibilities.

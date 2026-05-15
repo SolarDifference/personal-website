@@ -1,0 +1,44 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download PDF](assets/cv.pdf){.btn .btn-outline-primary}
+
+---
+
+## Education
+
+**Degree, Field** | Institution | City, State
+*Year – Year*
+
+- Dissertation/thesis title or relevant detail
+
+---
+
+## Professional Experience
+
+**Job Title** | Organization | City, State
+*Month Year – Present*
+
+- Key responsibility or accomplishment
+- Key responsibility or accomplishment
+
+---
+
+## Publications
+
+See my [Portfolio](portfolio.qmd) for a full list of publications.
+
+---
+
+## Skills
+
+**Languages & Tools:** R, Python, SQL, Shiny, tidyverse, ggplot2, ...
+
+**Methods:** Statistical modeling, data visualization, ...
+
+---
+
+## Awards & Honors
+
+- Award name | Institution | Year

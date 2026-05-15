@@ -1,0 +1,8 @@
+---
+title: "Welcome to My Blog"
+date: "2026-05-15"
+categories: [general]
+description: "An introduction to this blog and what to expect."
+---
+
+Welcome! This is the first post on my blog. Write your introduction here — what topics you plan to cover, your background, or anything else you'd like readers to know.

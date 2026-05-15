@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+I'm always happy to connect — whether it's about research, collaboration, or just to say hello.
+
+**Email:** [your@email.com](mailto:your@email.com)
+
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/)
+
+**GitHub:** [github.com/yourusername](https://github.com/)
+
+---
+
+*You can also reach me through the social links in the navigation bar.*

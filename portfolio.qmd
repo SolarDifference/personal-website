@@ -1,0 +1,37 @@
+---
+title: "Portfolio"
+---
+
+## Academic Publications
+
+<!-- Add entries using the format below. Consider using a .bib file + citetools for longer lists. -->
+
+**Author, Z., Coauthor, A. (Year).** Title of the paper. *Journal Name*, volume(issue), pages. [DOI link](https://doi.org)
+
+**Author, Z., Coauthor, A. (Year).** Title of another paper. *Journal Name*, volume(issue), pages. [DOI link](https://doi.org)
+
+---
+
+## Data Analytics & Shiny Dashboards
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Project Title
+**Tools:** R, Shiny, ggplot2
+
+Brief description of what the dashboard does, what data it uses, and what insights it provides.
+
+[View Dashboard](https://shinyapps.io) | [Source Code](https://github.com)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project Title
+**Tools:** R, Shiny, tidyverse
+
+Brief description of what the dashboard does, what data it uses, and what insights it provides.
+
+[View Dashboard](https://shinyapps.io) | [Source Code](https://github.com)
+:::
+
+:::

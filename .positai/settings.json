@@ -1,0 +1,13 @@
+{
+  "permission": {
+    "edit": {
+      "*.yml": "allow",
+      "*.qmd": "allow",
+      "*.css": "allow",
+      "*/.nojekyll": "allow"
+    },
+    "bash": {
+      "mkdir *": "allow"
+    }
+  }
+}

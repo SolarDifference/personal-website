@@ -1,0 +1,30 @@
+/* ── Typography ── */
+body {
+  font-size: 1.05rem;
+}
+
+/* ── Navbar ── */
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* ── About page hero ── */
+.quarto-about-trestles .about-entity {
+  padding-top: 2rem;
+}
+
+/* ── Portfolio grid cards ── */
+.g-col-12 h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+/* ── CV download button ── */
+.btn-outline-primary {
+  margin-bottom: 1.5rem;
+}
+
+/* ── Blog listing ── */
+.quarto-listing-default .listing-title {
+  font-weight: 600;
+}
