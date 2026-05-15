@@ -112,29 +112,29 @@ Introduction to Psychology
 
 ## Peer-Reviewed Publications
 
-Jacobs, K. W., Klapak, B., Morford, Z. H., & Synder, R. (2024). The effects of response disequilibrium on social media use: A laboratory analogue. *Behavioural Processes*. https://doi.org/10.1016/j.beproc.2024.104995
+Jacobs, K. W., Klapak, B., Morford, Z. H., & Synder, R. (2024). The effects of response disequilibrium on social media use: A laboratory analogue. *Behavioural Processes*. [https://doi.org/10.1016/j.beproc.2024.104995](https://doi.org/10.1016/j.beproc.2024.104995)
 
-Jacobs, K. W., Morford, Z. H., & King, J. E. (2019). Disequilibrium in behavior analysis: A disequilibrium theory redux. *Behavioural Processes, 162*, 197–204.
+Jacobs, K. W., Morford, Z. H., & King, J. E. (2019). Disequilibrium in behavior analysis: A disequilibrium theory redux. *Behavioural Processes, 162*, 197–204. [https://doi.org/10.1016/j.beproc.2019.02.006](https://doi.org/10.1016/j.beproc.2019.02.006)
 
-Stephens, C. J., Morford, Z. H., Cihon, T. M., Forand, E. H., & Neri-Hernandez, L. (2018). Exploring the impact of global studies experiences on undergraduate student development. *Frontiers: The Interdisciplinary Journal of Study Abroad, 30*, 63–76.
+Stephens, C. J., Morford, Z. H., Cihon, T. M., Forand, E. H., & Neri-Hernandez, L. (2018). Exploring the impact of global studies experiences on undergraduate student development. *Frontiers: The Interdisciplinary Journal of Study Abroad, 30*, 63–76. [https://doi.org/10.36366/frontiers.v30i2.412](https://doi.org/10.36366/frontiers.v30i2.412)
 
-Tsipursky, G., & Morford, Z. H. (2018). Addressing behaviors that lead to sharing fake news. *Behavior and Social Issues, 27*, AA6–AA10.
+Tsipursky, G., & Morford, Z. H. (2018). Addressing behaviors that lead to sharing fake news. *Behavior and Social Issues, 27*, AA6–AA10. [https://link.springer.com/article/10.5210/bsi.v27i0.8186](https://link.springer.com/article/10.5210/bsi.v27i0.8186)
 
-Gaalema, D. E., Elliott, R. J., Morford, Z. H., Higgins, S. T., & Ades, P. A. (2017). Effect of socioeconomic status on propensity to change risk behaviors following myocardial infarction. *Progress in Cardiovascular Diseases, 60*, 159–168.
+Gaalema, D. E., Elliott, R. J., Morford, Z. H., Higgins, S. T., & Ades, P. A. (2017). Effect of socioeconomic status on propensity to change risk behaviors following myocardial infarction. *Progress in Cardiovascular Diseases, 60*, 159–168. [https://doi.org/10.1016/j.pcad.2017.01.001](https://doi.org/10.1016/j.pcad.2017.01.001)
 
-Morford, Z. H., Gaalema, D., Elliott, R., Ades, P., & Higgins, S. (2017). Ongoing survey of alternative nicotine and tobacco use among cardiac patients. *Drug and Alcohol Dependence, 171*, e149.
+Morford, Z. H., Gaalema, D., Elliott, R., Ades, P., & Higgins, S. (2017). Ongoing survey of alternative nicotine and tobacco use among cardiac patients. *Drug and Alcohol Dependence, 171*, e149. [Google Scholar](https://scholar.google.com/scholar?q=Ongoing+survey+alternative+nicotine+tobacco+use+cardiac+patients+Morford+Gaalema)
 
-Jacobs, K. W., Morford, Z. H., King, J. E., & Hayes, L. J. P. (2017). Predicting the effects of interventions: A tutorial on the disequilibrium model. *Behavior Analysis in Practice, 10*, 195–208.
+Jacobs, K. W., Morford, Z. H., King, J. E., & Hayes, L. J. P. (2017). Predicting the effects of interventions: A tutorial on the disequilibrium model. *Behavior Analysis in Practice, 10*, 195–208. [https://doi.org/10.1007/s40617-017-0176-x](https://doi.org/10.1007/s40617-017-0176-x)
 
-Houmanfar, R. A., Alavosius, M. P., Morford, Z. H., Herbst, S. A., & Reimer, D. (2015). Functions of organizational leaders in cultural change: Financial and social well-being. *Journal of Organizational Behavior Management, 35*, 4–27.
+Houmanfar, R. A., Alavosius, M. P., Morford, Z. H., Herbst, S. A., & Reimer, D. (2015). Functions of organizational leaders in cultural change: Financial and social well-being. *Journal of Organizational Behavior Management, 35*, 4–27. [https://doi.org/10.1080/01608061.2015.1035827](https://doi.org/10.1080/01608061.2015.1035827)
 
-Linehan, C., Bellord, G., Kirman, B., Morford, Z. H., & Roche, B. (2014). Learning curves: Analysing pace and challenge in four successful puzzle games. *Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '14)*, 181–190.
+Linehan, C., Bellord, G., Kirman, B., Morford, Z. H., & Roche, B. (2014). Learning curves: Analysing pace and challenge in four successful puzzle games. *Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '14)*, 181–190. [https://doi.org/10.1145/2658537.2658695](https://doi.org/10.1145/2658537.2658695)
 
-Morford, Z. H., Witts, B. N., Killingsworth, K. J., & Alavosius, M. P. (2014). Gamification: The intersection between behavior analysis and game design technologies. *The Behavior Analyst, 37*, 25–40.
+Morford, Z. H., Witts, B. N., Killingsworth, K. J., & Alavosius, M. P. (2014). Gamification: The intersection between behavior analysis and game design technologies. *The Behavior Analyst, 37*, 25–40. [https://doi.org/10.1007/s40614-014-0006-1](https://doi.org/10.1007/s40614-014-0006-1)
 
-Cihon, T. M., Morford, Z., Stephens, C. J., Morrison, D., Shrontz, R., & Kelly, K. L. (2013). The effects of large-group instruction, modeling, or see the sound/visual phonics on undergraduate students learning to read Italian. *Reading in a Foreign Language, 25*, 1–25.
+Cihon, T. M., Morford, Z., Stephens, C. J., Morrison, D., Shrontz, R., & Kelly, K. L. (2013). The effects of large-group instruction, modeling, or see the sound/visual phonics on undergraduate students learning to read Italian. *Reading in a Foreign Language, 25*, 1–25. [https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/1115e122-11e5-4d95-8815-102a31f383d6/content](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/1115e122-11e5-4d95-8815-102a31f383d6/content)
 
-Morford, Z. H., & Cihon, T. M. (2013). Developing an experimental analysis of metacontingencies: Considerations regarding cooperation in a four-person prisoner's dilemma game. *Behavior and Social Issues, 22*, 5–20.
+Morford, Z. H., & Cihon, T. M. (2013). Developing an experimental analysis of metacontingencies: Considerations regarding cooperation in a four-person prisoner's dilemma game. *Behavior and Social Issues, 22*, 5–20. [https://link.springer.com/article/10.5210/bsi.v22i0.4207](https://link.springer.com/article/10.5210/bsi.v22i0.4207)
 
 ## Book Chapters
 
