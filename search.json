@@ -67,35 +67,91 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nDegree, Field | Institution | City, State Year – Year\n\nDissertation/thesis title or relevant detail"
+    "text": "Education\nPhD, Psychology | University of Nevada, Reno | 2015 Advisor: Linda Hayes\nMS, Behavior Analysis | University of North Texas | 2011 Advisor: Traci Cihon\nBS, Psychology | Georgia Institute of Technology | 2008 Advisor: Ruth Kanfer"
   },
   {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
+    "objectID": "cv.html#professional-certifications",
+    "href": "cv.html#professional-certifications",
     "title": "Curriculum Vitae",
-    "section": "Professional Experience",
-    "text": "Professional Experience\nJob Title | Organization | City, State Month Year – Present\n\nKey responsibility or accomplishment\nKey responsibility or accomplishment"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\nSee my Portfolio for a full list of publications."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\nLanguages & Tools: R, Python, SQL, Shiny, tidyverse, ggplot2, …\nMethods: Statistical modeling, data visualization, …"
+    "section": "Professional Certifications",
+    "text": "Professional Certifications\nBoard Certified Behavior Analyst-Doctoral (BCBA-D) | Certification #1-14-16480 | 2014 – Present\nLicensed Behavior Analyst (LBA), Texas | License #2684 | 2018 – 2021"
   },
   {
     "objectID": "cv.html#awards-honors",
     "href": "cv.html#awards-honors",
     "title": "Curriculum Vitae",
     "section": "Awards & Honors",
-    "text": "Awards & Honors\n\nAward name | Institution | Year"
+    "text": "Awards & Honors\nOBM Network Scholarly Impact Award | Organizational Behavior Management Network | 2016"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nIndustry\nClinical Data Analyst | Centria Healthcare | Dallas, TX & Westminster, CO (Remote) | 2022 – Present\n\nDeveloped a novel clinical metric enabling tracking of client goal progress and behavior reduction across 3,000+ clients and 350+ clinicians.\nBuilt PowerBI dashboards integrating novel metrics, giving clinical leaders real-time visibility into client outcomes.\nApplied random forest models to identify controllable clinical variables most predictive of client outcomes.\n\nData Analyst | Behavioral Health Center of Excellence (BHCOE) | Dallas, TX (Remote) | 2021 – 2022\n\nProduced industry research reports on pay and turnover derived from 17,000+ direct care staff, BCBAs, and clinical directors.\nBuilt an LDA topic model to surface and structure customer feedback patterns at scale.\nIdentified key drivers of employee turnover through predictive models spanning 100+ organizations; findings presented at CalABA 2022.\nApplied machine learning (regression, random forest) to identify clinical variables most associated with quality of ABA care.\n\nSecretary-Treasurer | Texas Association for Behavior Analysis (TxABA) | 2021 – 2023\nBehavioral Economist | The Fabulous | 2018 – 2019\nExecutive Director | Texas Association for Behavior Analysis (TxABA) | Dallas, TX | 2018 – 2021\n\nManaged a $400,000+ budget to support organizational operations and strategic priorities.\nServed 1,500+ attendees at multiple annual behavior analysis conferences, including a pivot at the onset of COVID-19.\nMore than doubled TxABA committee engagement and grew conference attendance 10% following execution of a board-aligned strategic plan.\n\nConsultant | ChangePartner, Inc. | Wilmington, DE | 2017\n\nIntegrated instructional design principles to improve delivery of behaviorally based feedback systems.\nConducted user testing of paper and electronic prototypes to inform early-stage product development.\n\nClassroom Facilitator | Koan School | Denton, TX | 2016 – 2017\n\nDelivered evidence-based math and science instruction grounded in the Morningside Model of Generative Instruction and Direct Instruction for students ages 8–13.\n\n\n\nAcademic Appointments\nAssistant Professor | The Chicago School of Professional Psychology (TCSPP) | Dallas, TX | 2018 – 2023\n\nTrained 50+ graduate students across applied behavior analysis, ethics, research methods, experimental analysis of behavior, verbal behavior, and scientific writing.\n\nPost-Doctoral Fellow | University of Vermont Center on Behavior and Health | Burlington, VT | 2015 – 2016\n\nApplied principles from behavioral economics and behavioral pharmacology to research chronic disease and health behavior promotion.\nConducted research on tobacco and nicotine regulation to understand behavioral and health consequences of regulatory decisions.\n\nSection Instructor | Simmons College | 2017 – 2018\nAdjunct Faculty | University of Nevada, Reno | 2011 – 2018\nAdjunct Faculty | Truckee Meadows Community College | 2014"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nUniversity of Colorado, Denver (Graduate) Introduction to ABA and Terminology (SPED 5450)\nThe Chicago School of Professional Psychology (Graduate) Concepts and Principles I & II · Measurement and Design · Diversity in Clinical Practice · Verbal Behavior · Professional Ethics · Scientific Writing · Professional Development\nSimmons College (Graduate) Introduction to Single Subject Research Designs (online)\nUniversity of Nevada, Reno (Graduate & Undergraduate) Ethics and Professional Issues · Research Methods · Applied Behavior Analysis · Behavior Analysis Practicum 1 · Organizational Behavior Management · Elementary Principles of Behavior Analysis · Statistical Methods for Psychology · Research Methods in Psychology · Conditioning and Learning · Radical Behaviorism\nUniversity of North Texas (Graduate & Undergraduate) Basic Behavior Principles · Improving Staff Performance · Behavior Principles I & II\nTruckee Meadows Community College (Undergraduate) Introduction to Psychology"
+  },
+  {
+    "objectID": "cv.html#peer-reviewed-publications",
+    "href": "cv.html#peer-reviewed-publications",
+    "title": "Curriculum Vitae",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\nJacobs, K. W., Klapak, B., Morford, Z. H., & Synder, R. (2024). The effects of response disequilibrium on social media use: A laboratory analogue. Behavioural Processes. https://doi.org/10.1016/j.beproc.2024.104995\nJacobs, K. W., Morford, Z. H., & King, J. E. (2019). Disequilibrium in behavior analysis: A disequilibrium theory redux. Behavioural Processes, 162, 197–204.\nStephens, C. J., Morford, Z. H., Cihon, T. M., Forand, E. H., & Neri-Hernandez, L. (2018). Exploring the impact of global studies experiences on undergraduate student development. Frontiers: The Interdisciplinary Journal of Study Abroad, 30, 63–76.\nTsipursky, G., & Morford, Z. H. (2018). Addressing behaviors that lead to sharing fake news. Behavior and Social Issues, 27, AA6–AA10.\nGaalema, D. E., Elliott, R. J., Morford, Z. H., Higgins, S. T., & Ades, P. A. (2017). Effect of socioeconomic status on propensity to change risk behaviors following myocardial infarction. Progress in Cardiovascular Diseases, 60, 159–168.\nMorford, Z. H., Gaalema, D., Elliott, R., Ades, P., & Higgins, S. (2017). Ongoing survey of alternative nicotine and tobacco use among cardiac patients. Drug and Alcohol Dependence, 171, e149.\nJacobs, K. W., Morford, Z. H., King, J. E., & Hayes, L. J. P. (2017). Predicting the effects of interventions: A tutorial on the disequilibrium model. Behavior Analysis in Practice, 10, 195–208.\nHoumanfar, R. A., Alavosius, M. P., Morford, Z. H., Herbst, S. A., & Reimer, D. (2015). Functions of organizational leaders in cultural change: Financial and social well-being. Journal of Organizational Behavior Management, 35, 4–27.\nLinehan, C., Bellord, G., Kirman, B., Morford, Z. H., & Roche, B. (2014). Learning curves: Analysing pace and challenge in four successful puzzle games. Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’14), 181–190.\nMorford, Z. H., Witts, B. N., Killingsworth, K. J., & Alavosius, M. P. (2014). Gamification: The intersection between behavior analysis and game design technologies. The Behavior Analyst, 37, 25–40.\nCihon, T. M., Morford, Z., Stephens, C. J., Morrison, D., Shrontz, R., & Kelly, K. L. (2013). The effects of large-group instruction, modeling, or see the sound/visual phonics on undergraduate students learning to read Italian. Reading in a Foreign Language, 25, 1–25.\nMorford, Z. H., & Cihon, T. M. (2013). Developing an experimental analysis of metacontingencies: Considerations regarding cooperation in a four-person prisoner’s dilemma game. Behavior and Social Issues, 22, 5–20."
+  },
+  {
+    "objectID": "cv.html#book-chapters",
+    "href": "cv.html#book-chapters",
+    "title": "Curriculum Vitae",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nJacobs, K. W., King, J. E., & Morford, Z. H. (2025). Behavior regulation theories of learning. In G. J. Madden & F. D. D. Reed (Eds.), APA Handbook of Behavior Analysis (2nd ed.). American Psychological Association.\nJacobs, K. W., King, J. E., & Morford, Z. H. (2025). Response disequilibrium theory. In V. Saini (Ed.), Quantitative Analysis of Behavior. Springer Nature."
+  },
+  {
+    "objectID": "cv.html#non-peer-reviewed-publications",
+    "href": "cv.html#non-peer-reviewed-publications",
+    "title": "Curriculum Vitae",
+    "section": "Non-Peer-Reviewed Publications",
+    "text": "Non-Peer-Reviewed Publications\nMorford, Z. H. (2014). Self-management as a real life video game. Behavior Analysis Digest International, 26, 1–4.\nMorford, Z. (2009). Class participation improves student performance. Behavior Analyst Digest, 21, 9–10."
+  },
+  {
+    "objectID": "cv.html#selected-presentations-workshops",
+    "href": "cv.html#selected-presentations-workshops",
+    "title": "Curriculum Vitae",
+    "section": "Selected Presentations & Workshops",
+    "text": "Selected Presentations & Workshops\nMorford, Z. H. (discussant, 2025, May). Advancing behavior analysis through machine learning and nonlinear dynamics. 51st Annual Meeting of ABAI, Washington, DC.\nMorford, Z. H. (discussant, 2023, May). Technology and behavior analysis. 49th Annual Meeting of ABAI, Denver, CO.\nMorford, Z. H. (2022, March). Using supervised machine learning to predict turnover in ABA organizations. CalABA 40th Annual Western Regional Conference, Santa Clara, CA.\nMorford, Z. H. (chair) et al. (2018, May). There’s more than one tool in the toolkit: Statistics for behavior analysts. 44th Annual Meeting of ABAI, San Diego, CA.\nMorford, Z. H. (chair) et al. (2018, May). On the bidirectional influence of behavior analysis and technology. 44th Annual Meeting of ABAI, San Diego, CA.\nMorford, Z. H. et al. (2014). Playing to learn: Formulating a behavioral account of games. 40th Annual Meeting of ABAI, Chicago, IL.\nMorford, Z. H. et al. (2013). Gamification: Taking inspiration from successful game design. 39th Annual Meeting of ABAI, Minneapolis, MN."
+  },
+  {
+    "objectID": "cv.html#peer-review-editorial-experience",
+    "href": "cv.html#peer-review-editorial-experience",
+    "title": "Curriculum Vitae",
+    "section": "Peer Review & Editorial Experience",
+    "text": "Peer Review & Editorial Experience\n\n\n\n\n\n\n\n\nJournal\nRole\nYears\n\n\n\n\nBehavior Analysis in Practice\nReviewer\n2020 – Present\n\n\nBehavior and Social Issues\nReviewer\n2016 – Present\n\n\nJournal of Organizational Behavior Management\nReviewer\n2013 – 2020\n\n\nJournal of Applied Behavior Analysis\nReviewer\n2020\n\n\nJournal of Behavioral Education\nReviewer\n2022\n\n\nPerspectives on Behavior Science\nReviewer\n2022\n\n\nComputers in Human Behavior Reports\nReviewer\n2023\n\n\nThe Behavior Analyst\nReviewer\n2013 – 2014\n\n\nJournal of Experimental Analysis of Behavior\nReviewer\n2017 – 2018\n\n\nTobacco Regulatory Science\nReviewer\n2016\n\n\nBehavior Analyst Digest\nTechnology Editor\n2013 – 2015"
+  },
+  {
+    "objectID": "cv.html#service-community-contributions",
+    "href": "cv.html#service-community-contributions",
+    "title": "Curriculum Vitae",
+    "section": "Service & Community Contributions",
+    "text": "Service & Community Contributions\n\nMember, ABAI Application Review Committee (ARC) | 2025 – Present\nMember, TCSPP Community Advisory Board | 2018 – 2020\nChair, Behavior Analysis and Technology ABAI SIG | 2015 – 2017\nStudent Representative, ABAI Executive Council | 2012 – 2015\nSecretary/Treasurer, Nevada Association for Behavior Analysis | 2011 – 2013"
+  },
+  {
+    "objectID": "cv.html#financial-awards",
+    "href": "cv.html#financial-awards",
+    "title": "Curriculum Vitae",
+    "section": "Financial Awards",
+    "text": "Financial Awards\nReceived\n\n\n\nAward\nAmount\nYear\n\n\n\n\nUNR Graduate Student Access Grant\n$3,000\n2012–2013\n\n\nUNT Graduate Student Grant\n$1,500\n2009\n\n\nUNT BHV Graduate Fellowship\n$15,000\n2008–2010"
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nAssociation for Behavior Analysis International (ABAI) | 2008 – Present\nTexas Association for Behavior Analysis (TxABA) | 2017 – Present\nCalifornia Association for Behavior Analysis (CalABA) | 2022 – 2023\nBehavioral Science & Policy Association | 2021 – 2022\nNevada Association for Behavior Analysis (NABA) | 2010 – 2015"
   },
   {
     "objectID": "blog/posts/first-post/index.html",
