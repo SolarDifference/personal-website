@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Zachary Morford</title>
+<link>https://SolarDifference.github.io/personal-website/blog/</link>
+<atom:link href="https://SolarDifference.github.io/personal-website/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 15 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to My Blog</title>
+  <link>https://SolarDifference.github.io/personal-website/blog/posts/first-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Welcome! This is the first post on my blog. Write your introduction here — what topics you plan to cover, your background, or anything else you’d like readers to know.</p>
+
+
+
+ ]]></description>
+  <category>general</category>
+  <guid>https://SolarDifference.github.io/personal-website/blog/posts/first-post/</guid>
+  <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

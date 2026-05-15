@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Author, Z., Coauthor, A. (Year). Title of the paper. Journal Name, volume(issue), pages. DOI link\nAuthor, Z., Coauthor, A. (Year). Title of another paper. Journal Name, volume(issue), pages. DOI link"
+  },
+  {
+    "objectID": "portfolio.html#academic-publications",
+    "href": "portfolio.html#academic-publications",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Author, Z., Coauthor, A. (Year). Title of the paper. Journal Name, volume(issue), pages. DOI link\nAuthor, Z., Coauthor, A. (Year). Title of another paper. Journal Name, volume(issue), pages. DOI link"
+  },
+  {
+    "objectID": "portfolio.html#data-analytics-shiny-dashboards",
+    "href": "portfolio.html#data-analytics-shiny-dashboards",
+    "title": "Portfolio",
+    "section": "Data Analytics & Shiny Dashboards",
+    "text": "Data Analytics & Shiny Dashboards\n\n\nProject Title\nTools: R, Shiny, ggplot2\nBrief description of what the dashboard does, what data it uses, and what insights it provides.\nView Dashboard | Source Code\n\n\nProject Title\nTools: R, Shiny, tidyverse\nBrief description of what the dashboard does, what data it uses, and what insights it provides.\nView Dashboard | Source Code"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\ngeneral\n\n\n\nAn introduction to this blog and what to expect.\n\n\n\n\n\nMay 15, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary Morford",
+    "section": "",
+    "text": "Write a short bio here — who you are, what you do, and what you’re interested in."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Zachary Morford",
+    "section": "",
+    "text": "Write a short bio here — who you are, what you do, and what you’re interested in."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zachary Morford",
+    "section": "Education",
+    "text": "Education\nDegree, Field | Institution | Year\nDegree, Field | Institution | Year"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Zachary Morford",
+    "section": "Experience",
+    "text": "Experience\nTitle | Organization | Years\nBrief description of your role and responsibilities."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDegree, Field | Institution | City, State Year – Year\n\nDissertation/thesis title or relevant detail"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nJob Title | Organization | City, State Month Year – Present\n\nKey responsibility or accomplishment\nKey responsibility or accomplishment"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee my Portfolio for a full list of publications."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nLanguages & Tools: R, Python, SQL, Shiny, tidyverse, ggplot2, …\nMethods: Statistical modeling, data visualization, …"
+  },
+  {
+    "objectID": "cv.html#awards-honors",
+    "href": "cv.html#awards-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nAward name | Institution | Year"
+  },
+  {
+    "objectID": "blog/posts/first-post/index.html",
+    "href": "blog/posts/first-post/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome! This is the first post on my blog. Write your introduction here — what topics you plan to cover, your background, or anything else you’d like readers to know."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always happy to connect — whether it’s about research, collaboration, or just to say hello.\nEmail: your@email.com\nLinkedIn: linkedin.com/in/yourprofile\nGitHub: github.com/yourusername\n\nYou can also reach me through the social links in the navigation bar."
+  }
+]
