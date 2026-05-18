@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-<div style="display:flex; align-items:center; gap:0.5rem; margin-bottom:1.5rem;">
+<div style="display:flex; align-items:center; gap:1rem; margin-bottom:1.5rem;">
 <a href="assets/Morford Vitae 2026, 01.pdf" class="btn btn-outline-primary" style="margin:0;">Download PDF</a><a href="https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en" class="btn btn-outline-secondary" style="margin:0;">Google Scholar</a>
 </div>
 
