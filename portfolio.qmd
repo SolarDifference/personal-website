@@ -4,34 +4,46 @@ title: "Portfolio"
 
 ## Academic Publications
 
-<!-- Add entries using the format below. Consider using a .bib file + citetools for longer lists. -->
+### Journal Articles
 
-**Author, Z., Coauthor, A. (Year).** Title of the paper. *Journal Name*, volume(issue), pages. [DOI link](https://doi.org)
+Jacobs, K. W., Klapak, B., Morford, Z. H., & Synder, R. (2024). The effects of response disequilibrium on social media use: A laboratory analogue. *Behavioural Processes*. [https://doi.org/10.1016/j.beproc.2024.104995](https://doi.org/10.1016/j.beproc.2024.104995)
 
-**Author, Z., Coauthor, A. (Year).** Title of another paper. *Journal Name*, volume(issue), pages. [DOI link](https://doi.org)
+Jacobs, K. W., Morford, Z. H., & King, J. E. (2019). Disequilibrium in behavior analysis: A disequilibrium theory redux. *Behavioural Processes, 162*, 197–204. [https://doi.org/10.1016/j.beproc.2019.02.006](https://doi.org/10.1016/j.beproc.2019.02.006)
+
+Stephens, C. J., Morford, Z. H., Cihon, T. M., Forand, E. H., & Neri-Hernandez, L. (2018). Exploring the impact of global studies experiences on undergraduate student development. *Frontiers: The Interdisciplinary Journal of Study Abroad, 30*, 63–76. [Google Scholar](https://scholar.google.com/scholar?q=Exploring+impact+global+studies+experiences+undergraduate+student+development+Stephens+Morford)
+
+Tsipursky, G., & Morford, Z. H. (2018). Addressing behaviors that lead to sharing fake news. *Behavior and Social Issues, 27*, AA6–AA10. [Google Scholar](https://scholar.google.com/scholar?q=Addressing+behaviors+lead+sharing+fake+news+Tsipursky+Morford)
+
+Gaalema, D. E., Elliott, R. J., Morford, Z. H., Higgins, S. T., & Ades, P. A. (2017). Effect of socioeconomic status on propensity to change risk behaviors following myocardial infarction. *Progress in Cardiovascular Diseases, 60*, 159–168. [Google Scholar](https://scholar.google.com/scholar?q=socioeconomic+status+propensity+change+risk+behaviors+myocardial+infarction+Gaalema+Morford)
+
+Morford, Z. H., Gaalema, D., Elliott, R., Ades, P., & Higgins, S. (2017). Ongoing survey of alternative nicotine and tobacco use among cardiac patients. *Drug and Alcohol Dependence, 171*, e149. [Google Scholar](https://scholar.google.com/scholar?q=Ongoing+survey+alternative+nicotine+tobacco+use+cardiac+patients+Morford+Gaalema)
+
+Jacobs, K. W., Morford, Z. H., King, J. E., & Hayes, L. J. P. (2017). Predicting the effects of interventions: A tutorial on the disequilibrium model. *Behavior Analysis in Practice, 10*, 195–208. [https://doi.org/10.1007/s40617-017-0176-x](https://doi.org/10.1007/s40617-017-0176-x)
+
+Houmanfar, R. A., Alavosius, M. P., Morford, Z. H., Herbst, S. A., & Reimer, D. (2015). Functions of organizational leaders in cultural change: Financial and social well-being. *Journal of Organizational Behavior Management, 35*, 4–27. [https://doi.org/10.1080/01608061.2015.1035827](https://doi.org/10.1080/01608061.2015.1035827)
+
+Linehan, C., Bellord, G., Kirman, B., Morford, Z. H., & Roche, B. (2014). Learning curves: Analysing pace and challenge in four successful puzzle games. *Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '14)*, 181–190. [Google Scholar](https://scholar.google.com/scholar?q=Learning+Curves+Analysing+Pace+Challenge+Puzzle+Games+Linehan+Morford)
+
+Morford, Z. H., Witts, B. N., Killingsworth, K. J., & Alavosius, M. P. (2014). Gamification: The intersection between behavior analysis and game design technologies. *The Behavior Analyst, 37*, 25–40. [https://doi.org/10.1007/s40614-014-0006-1](https://doi.org/10.1007/s40614-014-0006-1)
+
+Cihon, T. M., Morford, Z., Stephens, C. J., Morrison, D., Shrontz, R., & Kelly, K. L. (2013). The effects of large-group instruction, modeling, or see the sound/visual phonics on undergraduate students learning to read Italian. *Reading in a Foreign Language, 25*, 1–25. [Google Scholar](https://scholar.google.com/scholar?q=large+group+instruction+see+sound+visual+phonics+undergraduate+Italian+Cihon+Morford)
+
+Morford, Z. H., & Cihon, T. M. (2013). Developing an experimental analysis of metacontingencies: Considerations regarding cooperation in a four-person prisoner's dilemma game. *Behavior and Social Issues, 22*, 5–20. [Google Scholar](https://scholar.google.com/scholar?q=experimental+analysis+metacontingencies+cooperation+prisoner+dilemma+Morford+Cihon)
+
+### Book Chapters
+
+Jacobs, K. W., King, J. E., & Morford, Z. H. (2025). Behavior regulation theories of learning. In G. J. Madden & F. D. D. Reed (Eds.), *APA Handbook of Behavior Analysis* (2nd ed.). American Psychological Association.
+
+Jacobs, K. W., King, J. E., & Morford, Z. H. (2025). Response disequilibrium theory. In V. Saini (Ed.), *Quantitative Analysis of Behavior*. Springer Nature.
+
+### Non-Peer-Reviewed Publications
+
+Morford, Z. H. (2014). Self-management as a real life video game. *Behavior Analysis Digest International, 26*, 1–4.
+
+Morford, Z. (2009). Class participation improves student performance. *Behavior Analyst Digest, 21*, 9–10.
 
 ---
 
 ## Data Analytics & Shiny Dashboards
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### Project Title
-**Tools:** R, Shiny, ggplot2
-
-Brief description of what the dashboard does, what data it uses, and what insights it provides.
-
-[View Dashboard](https://shinyapps.io) | [Source Code](https://github.com)
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### Project Title
-**Tools:** R, Shiny, tidyverse
-
-Brief description of what the dashboard does, what data it uses, and what insights it provides.
-
-[View Dashboard](https://shinyapps.io) | [Source Code](https://github.com)
-:::
-
-:::
+*Coming soon — dashboard projects will be listed here.*
