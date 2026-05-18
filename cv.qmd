@@ -2,8 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[Download PDF](assets/Morford Vitae 2026, 01.pdf){.btn .btn-outline-primary}
-[Google Scholar](https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en){.btn .btn-outline-secondary}
+[Download PDF](assets/Morford Vitae 2026, 01.pdf){.btn .btn-outline-primary} [Google Scholar](https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en){.btn .btn-outline-secondary}
 
 ---
 
