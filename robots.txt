@@ -1,1 +1,1 @@
-Sitemap: https://SolarDifference.github.io/personal-website/sitemap.xml
+Sitemap: https://zacharymorford.com/sitemap.xml

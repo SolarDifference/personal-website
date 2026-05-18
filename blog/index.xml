@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Zachary Morford</title>
-<link>https://SolarDifference.github.io/personal-website/blog/</link>
-<atom:link href="https://SolarDifference.github.io/personal-website/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://zacharymorford.com/blog/</link>
+<atom:link href="https://zacharymorford.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Fri, 15 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome to My Blog</title>
-  <link>https://SolarDifference.github.io/personal-website/blog/posts/first-post/</link>
+  <link>https://zacharymorford.com/blog/posts/first-post/</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 
  ]]></description>
   <category>general</category>
-  <guid>https://SolarDifference.github.io/personal-website/blog/posts/first-post/</guid>
+  <guid>https://zacharymorford.com/blog/posts/first-post/</guid>
   <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
