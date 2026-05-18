@@ -11,7 +11,7 @@ about:
       href: https://github.com/SolarDifference
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/zachary-morford
+      href: https://www.linkedin.com/in/zachary-morford/
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en
